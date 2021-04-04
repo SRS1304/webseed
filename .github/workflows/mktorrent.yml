@@ -9,7 +9,7 @@ env:
   comment: "The Agora Financial Copy School System by torrent-webseed-creator"
   url: "http://sv5.mshare.space/td/H5olstvh3G"
   file_name: "The Agora Financial Copy School System.rar"
-  piece_size: 24 # Check the README.md for recommended piece size
+  piece_size: 24
   
 jobs:
   create:
